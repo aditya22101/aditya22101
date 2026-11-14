@@ -29,6 +29,6 @@ I'm an Electronics and Communication Engineering graduate from IIIT Raipur, pass
 
 ### 📈 GitHub Stats
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya22101&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Aitya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya22101&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
 📫 **Reach me at:** [aditya2155raj@gmail.com](mailto:aditya2155raj@gmail.com)

@@ -27,8 +27,6 @@ I'm an Electronics and Communication Engineering graduate from IIIT Raipur, pass
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-### 📈 GitHub Stats
 
-![Aitya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya22101&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
 📫 **Reach me at:** [aditya2155raj@gmail.com](mailto:aditya2155raj@gmail.com)
